@@ -1,7 +1,7 @@
 <h1 align="center">Hi There I'm Muhammed Hükümdar</h1>
 <h3 align="center">I am in the 3rd year of İnönü University, Computer Engineering department. I'm trying to train myself as an Android Developer and interested in Back-End and Front-End.I also have knowledge about Cyber Security for a long time and I am interested in this field as well.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/37/75/11/37751162cba905651c93d8e9674e35a3.gif](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkmdrmuahmd&label=Profile%20views&color=0e75b6&style=flat" alt="hkmdrmuahmd" /> </p>
 
