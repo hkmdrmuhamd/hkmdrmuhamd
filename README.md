@@ -1,5 +1,5 @@
 <h1 align="center">Hi There I'm Muhammed Hükümdar</h1>
-<h3 align="center">I am in the 3rd year of İnönü University, Computer Engineering department. I'm trying to train myself as an Mobile Developer and interested in Back-End and Front-End.I also have knowledge about Cyber Security for a long time and I am interested in this field as well.</h3>
+<h3 align="center">I am in the 4rd year of İnönü University, Computer Engineering department. I'm trying to train myself as an Mobile Developer and interested in Back-End and Front-End.I also have knowledge about Cyber Security for a long time and I am interested in this field as well.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
