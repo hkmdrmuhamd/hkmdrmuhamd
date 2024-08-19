@@ -58,4 +58,4 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkmdrmuhamd)](https://github.com/hkmdrmuhamd/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hkmdrmuhamd)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hkmdrmuhamd)
