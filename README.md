@@ -314,8 +314,3 @@
     height="40"
   />
 </a>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=hkmdrmuhamd"
-  alt="GitHub Stats"
-/>
