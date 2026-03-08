@@ -1,9 +1,8 @@
 <h1 align="center">Hi There I'm Muhammed Hükümdar</h1>
 <h3 align="center">
-  I graduated from the Computer Engineering department of İnönü University with
-  a GPA of 3.50. I develop both Back-End and Front-End applications.
-  Additionally, I have extensive knowledge in Cybersecurity and have been
-  interested in this field for a long time.
+  I graduated from the Computer Engineering department of İnönü University with a GPA of 3.50.
+I develop both Back-End and Front-End applications. Additionally, I have extensive knowledge in Cybersecurity and have been interested in this field for a long time.
+I am also actively working with DevOps technologies and infrastructure tools such as Docker, Kubernetes, Prometheus, Grafana, CI/CD pipelines and cloud systems.
 </h3>
 
 <img
